@@ -1,0 +1,2 @@
+# gogone
+Learn Go
